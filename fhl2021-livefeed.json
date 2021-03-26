@@ -1,0 +1,7 @@
+[
+  {"id": 0, "title": "DW", "region": "EU", "thumbnailUri": "http://i.ytimg.com/vi/qMtcWqCL_UQ/hqdefault.jpg", "sourceUri": "https://www.youtube.com/embed/qMtcWqCL_UQ"},
+  {"id": 1, "title": "NBC", "region": "US", "thumbnailUri": "http://i.ytimg.com/vi/0Y50fWoyoWU/hqdefault.jpg", "sourceUri": "https://www.youtube.com/embed/0Y50fWoyoWU"},
+  {"id": 2, "title": "Sky News", "region": "AU", "thumbnailUri": "http://i.ytimg.com/vi/9Auq9mYxFEE/hqdefault.jpg", "sourceUri": "https://www.youtube.com/embed/9Auq9mYxFEE"},
+  {"id": 3, "title": "NASA TV", "region": "US", "thumbnailUri": "http://i.ytimg.com/vi/21X5lGlDOfg/hqdefault.jpg", "sourceUri": "https://www.youtube.com/embed/21X5lGlDOfg"},
+  {"id": 4, "title": "NHK", "region": "JP", "thumbnailUri": "https://images-na.ssl-images-amazon.com/images/I/91m4NwaXuHL.png", "sourceUri": "https://www3.nhk.or.jp/nhkworld/common/player/tv/live/embed/embed.html"}
+]
